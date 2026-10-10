@@ -1,4 +1,4 @@
-** FIFA World Cup 2026 — Data Science Project** 
+**FIFA World Cup 2026 — Data Science Project** 
 
 This project uses Python and Linear Regression to analyse football match data and predict match outcomes.
 
